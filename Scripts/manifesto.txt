@@ -1,0 +1,6 @@
+----- Open Source Manifesto -----
+Date: 29 March 2026
+
+I believe open source stands for free for all.
+Tools like vs code empower developers worldwide.
+I aim to build AI agents and share it freely with others.
